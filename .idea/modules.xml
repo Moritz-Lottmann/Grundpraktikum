@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../../Arbeit/ACP/.idea/ACP-DESKTOP-9G3S472.iml" filepath="$PROJECT_DIR$/../../../../Arbeit/ACP/.idea/ACP-DESKTOP-9G3S472.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Computational Physics/.idea/Computational Physics.iml" filepath="$PROJECT_DIR$/../../Computational Physics/.idea/Computational Physics.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Git.iml" filepath="$PROJECT_DIR$/.idea/Git.iml" />
     </modules>
   </component>
