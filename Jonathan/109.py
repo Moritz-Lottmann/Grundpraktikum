@@ -1,7 +1,5 @@
 import numpy as np
-from scipy import stats
 from scipy.constants.constants import *
-from scipy.stats import linregress as linreg
 from matplotlib import pyplot as plt
 from sklearn.linear_model import LinearRegression
 
